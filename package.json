@@ -35,5 +35,12 @@
     "preinstall": "node -e 'process.exit(0)'",
     "install": "node-pre-gyp install --fallback-to-build",
     "test": "mocha --debug"
+  },
+  "_from": "cavisson-profiling-tool@latest",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "cavissonsystems",
+    "email": "balasudheer2802@gmail.com"
   }
 }
