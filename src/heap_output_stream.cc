@@ -23,7 +23,7 @@ namespace nodex {
   }
 
   int OutputStreamAdapter::GetChunkSize() {
-    return 51200;
+    return 10485760;
   }
 
   OutputStream::WriteResult OutputStreamAdapter::WriteAsciiChunk(char* data, int size) {
