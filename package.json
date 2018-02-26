@@ -2,7 +2,7 @@
   "name": "cavisson-profiling-tool",
   "version": "1.0.3",
   "description": "Allows you to dig in v8",
-  "author": "Cavisson Systems <sahildhall012@gmail.com>",
+  "author": "Sahil Dhall",
   "repository": {
     "type": "git",
     "url": "git://github.com/sahildhall/cavisson-profiling-tool.git"
