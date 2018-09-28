@@ -33,7 +33,6 @@
   },
   "scripts": {
     "preinstall": "node -e 'process.exit(0)'",
-    "install": "node-pre-gyp install --fallback-to-build",
     "test": "mocha --debug"
   },
   "_from": "cavisson-profiling-tool@latest",
