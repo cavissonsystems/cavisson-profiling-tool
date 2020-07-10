@@ -1,6 +1,6 @@
 {
   "name": "cavisson-profiling-tool",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Allows you to dig in v8",
   "author": "Sahil Dhall",
   "repository": {
@@ -33,7 +33,6 @@
   },
   "scripts": {
     "preinstall": "node -e 'process.exit(0)'",
-    "install": "node-pre-gyp install --fallback-to-build",
     "test": "mocha --debug"
   },
   "_from": "cavisson-profiling-tool@latest",
