@@ -1,6 +1,6 @@
 {
   "name": "cavisson-profiling-tool",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Allows you to dig in v8",
   "author": "CAVISSON (Sarang Shekhar)",
   "repository": {
